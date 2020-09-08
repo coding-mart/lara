@@ -1,2 +1,2 @@
 # laravel-file-upload
-this is lara repo
+learn how to upload file using laravel framework.
